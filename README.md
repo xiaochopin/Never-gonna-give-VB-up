@@ -1,9 +1,7 @@
 # Never-gonna-give-VB-up
 
-a easy exe can rick roll other
+dont open this exe.exe
 
-你tnn的骗我是吧
+24kb纯骗
 
-我tm骗你！
-
-[go release page(下载页)](https://github.com/xiao-chopin/Never-gonna-give-VB-up/releases)
+[download](https://github.com/xiao-chopin/Never-gonna-give-VB-up/releases)
